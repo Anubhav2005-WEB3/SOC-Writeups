@@ -1,0 +1,23 @@
+# Logs Fundamentals
+
+## Introduction to Logs
+
+Logs are records of system and user activity.
+
+SOC analysts use logs to detect suspicious behavior and investigate incidents.
+
+## Types of Logs
+
+- Authentication Logs
+- System Logs
+- Web Logs
+
+## Windows Event Logs
+
+Event ID 4625 represents failed login attempts.
+
+Repeated failed logins may indicate brute-force attacks.
+
+## Conclusion
+
+Logs are essential for monitoring and incident response.
